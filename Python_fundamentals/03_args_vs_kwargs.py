@@ -14,8 +14,10 @@ What are *args and **kwargs in Python?
 
 Answer:
 
-*args allows a function to accept a variable number of positional arguments and stores them as a tuple.
-**kwargs allows a function to accept a variable number of keyword arguments and stores them as a dictionary.
+*args - allows a function to accept a variable number of positional arguments and stores them as a tuple.
+
+**kwargs - allows a function to accept a variable number of keyword arguments and stores them as a dictionary.
+
 They are useful when a function needs to accept flexible or unknown numbers of arguments.
 
 """
