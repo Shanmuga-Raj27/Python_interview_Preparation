@@ -80,4 +80,4 @@ print(result_2)
 
 They are useful when a function needs to accept a flexible or unknown number of arguments.
 
-*`Refer to code at`* - [03_args_vs_kwargs.py](../03_args_vs_kwargs.py)
+*`Refer to code at`* - [args_vs_kwargs.py](args_vs_kwargs.py)
