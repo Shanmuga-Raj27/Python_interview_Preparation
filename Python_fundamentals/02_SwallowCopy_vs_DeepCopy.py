@@ -16,6 +16,7 @@ Question: What is the difference between shallow copy and deep copy in Python?
 Answer:
 
 A shallow copy creates a new outer object but shares nested objects with the original.
+
 A deep copy creates a completely independent copy, including nested objects.
 Python provides copy.copy() for shallow copying and copy.deepcopy() for deep copying.
 """
