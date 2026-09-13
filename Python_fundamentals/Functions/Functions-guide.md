@@ -37,7 +37,7 @@ A first-class function means that Python treats functions as regular objects—j
 
  Python supports first-class functions, which means functions are treated as objects. We can assign them to variables, pass them as arguments to other functions, return them from other functions, and store them in data structures. This behavior forms the foundation for advanced concepts like higher-order functions, closures, and decorators.
 
-*`Refer to the full implementation at`* [First-Class_function.py](../First-Class_function.py)
+*`Refer to the full implementation at`* [First-Class_function.py](First-Class_function.py)
 
 ---
 
