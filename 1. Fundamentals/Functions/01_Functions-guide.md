@@ -47,7 +47,7 @@ A first-class function means that Python treats functions as regular objects—j
 
  A higher-order function is a function that accepts another function as an argument, returns a function, or does both. This is possible because Python treats functions as first-class objects. Higher-order functions are commonly used in functional programming and serve as the foundation for decorators and callbacks.
 
-### 1. Function as an Argument
+### 1.1 Function as an Argument
 
 ```python
 def square(x):
@@ -68,7 +68,7 @@ print(result)  # Output: 25
 
 ---
 
-### 2. Function Returning a Function
+### 1.2 Function Returning a Function
 
 ```python
 def create_greeting():
@@ -84,3 +84,4 @@ print(greeting("Arun"))  # Output: Hello, Arun
 ```
 
 **Execution Flow:** `create_greeting()` returns the inner function `greet`, making `create_greeting()` a higher-order function.
+
